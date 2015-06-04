@@ -1,7 +1,9 @@
 {
   "name": "polymer-starter-kit",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.12.4"
+  },
   "scripts": {
     "deps": "npm install -g gulp && npm install -g bower && npm install && bower install"
   },
